@@ -3,6 +3,7 @@ import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 import java.lang.*;
 public class test{
+  //todo: change scanner with argparse, should be faster
   static void clientOpener() {
     Boolean run=true;
     String address =" https://www.fandango.com";
